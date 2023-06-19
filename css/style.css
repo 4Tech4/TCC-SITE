@@ -54,26 +54,32 @@
 }
 
 .main {
+    background-image: url(https://rare-gallery.com/mocahbig/445446-leaves-macro-dark-foliage-depth-of-field.png);
     position: relative;
-    background: url(../imgs/header.jpg);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
     padding: 280px 0 220px;
     color: white;
 }
-
+#mainP{
+    background-color: #E9E6E1;
+    height: 400px;
+}
+#raissa{
+    border-radius: 50%;
+}
 #ReadMore {
     text-decoration: none;
     color: inherit;
     font-size: 25px;
     border-radius: 5px;
     padding: 10px;
-    color: #262626 !important;
+    color: #fff !important;
 }
 
 #cursinho {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 li {
@@ -143,7 +149,9 @@ li {
 .our-team img {
     width: 100%;
 }
-
+#Caraca{
+    width: 90%;
+}
 .our-team .content {
     background: rgba(0, 0, 0, 0.6);
     position: absolute;
@@ -554,7 +562,7 @@ input.submitbutton.ripplelink {
 }
 
 .amarelo {
-    color: #ffff33;
+    color: #fff;
     font-size: 2em;
 
 }
