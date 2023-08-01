@@ -54,7 +54,7 @@
 }
 
 .main {
-    background-image: url(https://rare-gallery.com/mocahbig/445446-leaves-macro-dark-foliage-depth-of-field.png);
+    background-image: url("../imgs/leaves.png");
     position: relative;
     min-height: 100vh;
     background-size: cover;
@@ -80,6 +80,9 @@
     border-radius: 5px;
     padding: 10px;
     color: #fff !important;
+}
+#testando{
+    width: 80%;
 }
 
 #cursinho {
